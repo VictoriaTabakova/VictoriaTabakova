@@ -1,16 +1,17 @@
-## Hi there 👋
+### Привет, я Виктория Табакова! 👋
 
-<!--
-**VictoriaTabakova/VictoriaTabakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Junior QA Engineer. Сейчас активно развиваюсь и нацелена на автоматизацию тестирования.
 
-Here are some ideas to get you started:
+💼 **Опыт работы**
+В данный момент работаю в компании — российском производителе охранного оборудования «Контакт GSM» и систем мониторинга транспорта «Voyager».
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Мой стек и инструменты**
+- **Трекинг и Базы знаний:** Jira, Zephyr, Confluence
+- **Web и Дизайн:** Chrome DevTools, Figma
+- **Работа с серверами:** Linux, PuTTY
+- **Контроль версий:** Git, GitHub, GitLab
+- **Методологии:** Scrum
+
+📫 **Как со мной связаться**
+- Telegram: [@VTabakova](https://t.me/VTabakova)
+- Email: vrtabakova@gmail.com
